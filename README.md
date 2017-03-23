@@ -9,6 +9,7 @@
  ③ 会写上自己的思路，以及一些代码的注释（我肯定把代码看懂了再弄上来( • ̀ω•́ )）
  
 ###目录(倒序)
+
 [每天一题LeetCode【第30天】](http://www.jianshu.com/p/de0ade840893)
 
 [每天一题LeetCode【第29天】](http://www.jianshu.com/p/238b18f74a1a)
