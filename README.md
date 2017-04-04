@@ -10,6 +10,20 @@
  
 ###目录(倒序)
 
+[每天一题LeetCode【第37天】](http://www.jianshu.com/p/88a3679ac74c)
+
+[每天一题LeetCode【第36天】](http://www.jianshu.com/p/77613a51e565)
+
+[每天一题LeetCode【第35天】](http://www.jianshu.com/p/6ca240f69b0f)
+
+[每天一题LeetCode【第34天】](http://www.jianshu.com/p/dadbf55b48e3)
+
+[每天一题LeetCode【第33天】](http://www.jianshu.com/p/ad97d6e42d33)
+
+[每天一题LeetCode【第32天】](http://www.jianshu.com/p/a10c63426666)
+
+[每天一题LeetCode【第31天】](http://www.jianshu.com/p/af00669dd76e)
+
 [每天一题LeetCode【第30天】](http://www.jianshu.com/p/de0ade840893)
 
 [每天一题LeetCode【第29天】](http://www.jianshu.com/p/238b18f74a1a)
